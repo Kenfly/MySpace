@@ -1,2 +1,2 @@
-1.sdkfls
-sdfdsf
+1.退出erland最安全的办法是调用q().
+2.
